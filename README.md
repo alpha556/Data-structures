@@ -1,5 +1,5 @@
 # Data-structures
-Working programs of all basic data structures and some application programs  in C/C++ 
+Working programs of all basic data structures and some application programs  in C/C++
 FILE LIST:
 No. file_name ->  Desciption
 
