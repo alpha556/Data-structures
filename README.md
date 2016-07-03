@@ -1,2 +1,2 @@
 # Data-structures
-Working programs of all basic data structures in C/C++
+Working programs of all basic data structures and some application programs  in C/C++ 
