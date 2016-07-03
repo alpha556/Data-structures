@@ -20,7 +20,7 @@ No. file_name ->  Desciption
 15. trees -> trees implementation 
 16. stack_linked ->  implementing stack as linked list
 17. quicksort -> quicksort algorithm implementation
-18. heapsort -> heapsort algorithm implementation 
+18. heapsort -> heapsort algorithm implementation
 19.palindrom_stack -> checking palindromes using stack
 
 PS: All programs run fine but can be improved further for performance. 
